@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "none",
+    "outFile": "src/Worms.js",
+    "sourceMap": false,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "strict": false,
+    "lib": ["ES5", "DOM"]
+  },
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
