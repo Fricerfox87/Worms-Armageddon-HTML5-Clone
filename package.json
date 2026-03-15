@@ -1,0 +1,13 @@
+{
+  "name": "worms-armageddon-html5",
+  "version": "2.0.0",
+  "description": "Worms Armageddon HTML5 Clone - PCD modernization",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
